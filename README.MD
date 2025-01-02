@@ -1,7 +1,18 @@
 # TestNG
 
 * Introduction
+* Assertions
+  * Hard Assertions
+  * Soft Assertions
 * Annotations
+  * Priority
+  * Dependency
+  * Grouping
+  * Data Provider
+  * ITestResults
+  * Listeners
+* Timeout
+* Parallel Execution
 * Reports
 
 
